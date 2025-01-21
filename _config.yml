@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Brian Tang"
+title                    : "Brian's Life Gatherings"
 title_separator          : "-"
 name                     : &name "Siwei(Brian) Tang"
 description              : &description "personal description"
