@@ -23,7 +23,7 @@ Work experience
   1. Micro Frontend, Starter Kit Template(scaffolding for web application)
     * Storybook, Playwright, Module Federation, Java(Spring Boot), Kubernetes, GCP, Node.js, TypeScript, Linux
   1. Risk Engine(Assessment on Github repository commit)
-    * Github Action, Kubernetes, GCP, Node.js, TypeScript, Linux, Docker
+    * Github Action, Kubernetes, GCP, Node.js(Fastify), TypeScript, Linux, Docker
 
 <!-- * Fall 2015: Research Assistant
   * Github University
