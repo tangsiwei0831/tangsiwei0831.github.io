@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,13 +17,17 @@ Education
 
 Work experience
 ======
-* October 2023 - Present: TELUS
+* TELUS(October 2023 - Present) 
   1. Build ETL data pipelines from salesforce to GCP BigQuery then to Oracle On-prem database
     * Python, Apache Airflow, Apache Beam, SQL, GCP(GCS, BigQuery, Composer, Batch, Dataflow, Log Explorer)
   1. Micro Frontend, Starter Kit Template(scaffolding for web application)
     * Storybook, Playwright, Module Federation, Java(Spring Boot), Kubernetes, GCP, Node.js, TypeScript, Linux
   1. Risk Engine(Assessment on Github repository commit)
     * Github Action, Kubernetes, GCP, Node.js(Fastify), TypeScript, Linux, Docker
+
+Side project
+======
+1. [City Road](https://github.com/tangsiwei0831/city-road): Developed an interactive web tool that visualizes road networks of cities using OpenStreetMap data, generating minimalistic yet detailed renderings.
 
 <!-- * Fall 2015: Research Assistant
   * Github University
