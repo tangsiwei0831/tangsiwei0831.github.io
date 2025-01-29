@@ -11,6 +11,8 @@ List of the Toronto restaurants that I visited.
 
 [Cheng du Street food 苍蝇馆子](https://www.chengdustreetfood.ca/): 4.1/5. Sichuan food, the quantity is not that big as it is in downtown. Can have a try if you want to taste Sechuan food in downtown Toronto.
 
+[Chiptole](https://www.chipotle.ca/): 4.5/5. I don't know, bro. Everytime I walked passed by this restaurant, it always smell so good.
+
 [Congee Queen](https://www.congeequeen.com/): 3.7/5. Ok food, various types of dishes, can have a try if walk by Eaton centre.
 
 [Contrada](https://www.contradarestaurant.com/): 4.6/5. Delicious food with special taste, only problem is the small amount.
@@ -65,6 +67,8 @@ List of the Toronto restaurants that I visited.
 4.6/5. If you want to have a try with special beijing style hot pot, this worth to have a try, the pot has no taste, only pure water. This will let you to taste the original quality of the meat, and the source is good. 
 
 [华星 Chi Star House](https://chistarhouse.urbaneater.ca/): 4.9/5. Worth to take a look at all their meals, their fried yogurt is the best. Also the duck and chicken is delicious. Worth to go to have a try. They have cash discount.
+
+[华星冰室 Chrisly Cafe](https://www.ubereats.com/ca/store/chrisly-cafe-%E8%8F%AF%E6%98%9F%E5%86%B0%E5%AE%A4/UWrg4eyiX56brnF0doTuUg?srsltid=AfmBOorR3wXKuaumwErYoAjR9IwD7KpI3Nj6V-dPY8xoC-7NSNkWOUBi): 4.6/5. Super cheap compared to the size, I order read bean ice, don't like the ice cream inside, might be my problem LOL, most likely need to wait as the room is small.
 
 [Huh Ga Ne](http://www.huhgane.com/): 4.5/5. Nice Korea food, fried intestine is awesome. 
 
