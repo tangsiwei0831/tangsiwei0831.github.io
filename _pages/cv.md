@@ -22,8 +22,8 @@ Work experience
     * Python, Apache Airflow, Apache Beam, SQL, GCP(GCS, BigQuery, Composer, Batch, Dataflow, Log Explorer)
   1. Micro Frontend, Starter Kit Template(scaffolding for web application)
     * Storybook, Playwright, Module Federation, Java(Spring Boot), Kubernetes, GCP, Node.js, TypeScript, Linux
-  1. Risk Engine(Assessment on Github repository commit)
-    * Github Action, Kubernetes, GCP, Node.js(Fastify), TypeScript, Linux, Docker
+  1. Risk Engine(Assessment on Github repository pull requests)
+    * Github Action, Kubernetes, GCP, Node.js(Fastify), TypeScript, Linux, Docker, Ngrok
 
 Side project
 ======
