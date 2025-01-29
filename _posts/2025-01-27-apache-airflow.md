@@ -9,6 +9,8 @@ tags:
 # Common Knowledge
 1. Data pipeline has two types, **streaming** and **batch**. Streaming data pipeline is real time and batch data pipeline 
    is scheduled. Therefore, to update DAG, streaming pipeline needs to be switched off but batch does not need.
+
+   
 2. **Backfilling**: process of running computation for dates in the past. Typically occurs when new workflows 
    or existing ones are modified, there is a need to generate data for periods before the workflow is active or updated.
    * Reasons for backfilling: new workflow deployment, data pipeline modification, daa loss recovery or consistency across systems

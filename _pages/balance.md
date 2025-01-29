@@ -9,15 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Tryout
+Code
 ======
-1. [City Road](https://github.com/tangsiwei0831/city-road): An interactive web tool that visualizes road networks of cities using OpenStreetMap data, generating minimalistic yet detailed renderings.
+* [City Road](https://github.com/tangsiwei0831/city-road) <br/>
+  An interactive web tool that visualizes road networks of cities using OpenStreetMap data, generating minimalistic yet detailed renderings.
 
 
 Algorithm
 ======
-1. [Grind 75](https://www.techinterviewhandbook.org/grind75): schedule set to be 8 hours per week, 26 weeks, in  total 169 leetcode questions, review the solution and understand the basic algorithm to solve this problems.
-* First Round: Dec 09 2024 - Present
+* [Grind 75](https://www.techinterviewhandbook.org/grind75) <br/>
+First Round: Dec 09 2024 - Present
 
 Resources
 ======
