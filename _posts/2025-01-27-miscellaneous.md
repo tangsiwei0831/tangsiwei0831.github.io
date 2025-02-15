@@ -1,6 +1,6 @@
 ---
 title: 'Miscellaneous'
-date: 2025-01-27
+date: 2025-02-15
 permalink: /posts/miscellaneous
 tags:
   - Software
@@ -27,3 +27,43 @@ tags:
     curr.close()
     conn.commit()
     ```
+
+# Trunk Based Development
+  Trunk-Based Development (TBD) is a branching strategy where all developers work in a single main branch, often called the "trunk" (typically `main` or `master`). Feature branches, if used, are short-lived and merged quickly, ensuring that code is continuously integrated and deployed.
+
+### **Key Principles:**
+1. **Single Long-Lived Branch** – All changes go into the trunk (`main`).
+2. **Frequent Commits & Merges** – Developers commit small, incremental changes multiple times a day.
+3. **Short-Lived Feature Branches (or Direct Commits)** – If feature branches are used, they are very short-lived (hours or a day).
+4. **Feature Flags** – Incomplete or risky features are hidden behind feature toggles instead of long-lived branches.
+5. **Continuous Integration & Deployment (CI/CD)** – Code is built, tested, and deployed automatically.
+
+### **Benefits:**
+**Reduces Merge Conflicts** – No long-lived branches, so merging is easier.  
+**Faster Feedback Loop** – Changes are tested and deployed quickly.  
+**Encourages Collaboration** – Everyone works on the same branch, reducing silos.  
+**More Reliable Releases** – Small, incremental updates are less risky than large merges.
+
+### **Challenges & Mitigations:**
+- **Code Stability Risks** → Use feature flags, strong CI/CD, and automated tests.  
+- **Requires Discipline** → Developers must commit small changes frequently.  
+- **Not Always Ideal for Large Teams** → May require additional coordination tools like stacked diffs (e.g., Meta’s `Sapling`).  
+
+
+### **Feature Branch Strategy vs. Trunk-Based Development (TBD)**  
+
+| **Aspect**              | **Feature Branch Strategy**                             | **Trunk-Based Development (TBD)**               |
+|-------------------------|---------------------------------------------------------|------------------------------------------------|
+| **Branching Model**     | Developers create long-lived feature branches.         | Developers commit directly to the trunk (`main`) or use short-lived branches. |
+| **Merge Frequency**     | Less frequent, often after days/weeks of work.         | Very frequent, usually multiple times per day. |
+| **Merge Complexity**    | High—long-lived branches cause complex merges (merge conflicts). | Low—small, incremental changes reduce conflicts. |
+| **Integration Approach**| Features are integrated late, often leading to large, risky merges. | Continuous integration ensures features are merged and tested quickly. |
+| **Feature Visibility**  | Features remain hidden in branches until merged.       | Feature flags are used to hide incomplete features in production. |
+| **Risk of Merge Hell**  | High—long-lived branches increase merge conflicts.     | Low—short-lived changes reduce risk. |
+| **Testing Strategy**    | Testing often happens at the end of the feature cycle. | Automated testing in CI/CD ensures quick feedback. |
+| **Deployment Frequency**| Less frequent due to large, bundled releases.         | Frequent, even multiple times per day. |
+| **Best for...**         | Projects where features take longer and require isolation. | Fast-paced, agile teams practicing continuous deployment. |
+
+### **Key Takeaways:**
+- **Feature Branch Strategy** is better when teams need feature isolation for longer development cycles.
+- **TBD** is best for **high-speed, continuous delivery environments**, reducing integration complexity.

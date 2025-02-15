@@ -11,6 +11,8 @@ List of the Toronto restaurants that I visited.
 
 [Cheng du Street food 苍蝇馆子](https://www.chengdustreetfood.ca/): 4.1/5. Sichuan food, the quantity is not that big as it is in downtown. Can have a try if you want to taste Sechuan food in downtown Toronto.
 
+[Cheffry's Bistro](https://cheffrysbistro.com/): 4.8/5. Indian style cuisine, I like butter chicken poutine and pasta. The source is yammy. Worth to try!
+
 [Chiptole](https://www.chipotle.ca/): 4.5/5. I don't know, bro. Everytime I walked passed by this restaurant, it always smell so good.
 
 [Congee Queen](https://www.congeequeen.com/): 3.7/5. Ok food, various types of dishes, can have a try if walk by Eaton centre.
@@ -72,6 +74,8 @@ List of the Toronto restaurants that I visited.
 
 [Huh Ga Ne](http://www.huhgane.com/): 4.5/5. Nice Korea food, fried intestine is awesome. 
 
+[I8yokocho](https://i8yokocho.com/): 4.6/5. Frish rice bowl is delicious, takoyaki balls are cripsy. 
+
 [Ian Cakery](https://www.iancakery.ca/): 4.5/5. Honestly I just take a little dessert, but it is good for their cream puff.
 
 [IL FORNELLO](https://ilfornello.com/): 3.5/5. Ok Italian food, price is a little high, record for my meet with previous manager and team members.
@@ -95,6 +99,8 @@ List of the Toronto restaurants that I visited.
 [Lee](https://leerestaurant.com/): 4.0/5. Average price 100+, Singapore style slaw worth to try, other is also ok, worth to go for one time.
 
 [刘一手火锅](https://www.liuyishouna.com/): 4.1/5. Just so so for a hot pot, you can have a try at this restaurant, at least it is not bad.
+
+[Long Feng Hotpot龙凤打边炉](https://gosnappy.io/owa/r/loon-fong-hot-pot/1039/menu_397?skipBeforeEnter=true)：4.5/5. I like the beef hotpot, very good, recommend to go for a shot!
 
 [摸鱼 More Fish Restaurant](https://order.mrsdigi.com/004113222710074/e4804258-52cf-5114-ac71-3ba9b390f94b#/store-home): 3.6/5. Price is a little expensive compared to quantity. Although their recommendation is fish, but the fish is not that good and it is more than $40 for a plate, way too expensive, not recommend.
 
