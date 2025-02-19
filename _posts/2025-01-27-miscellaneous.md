@@ -49,21 +49,5 @@ tags:
 - **Requires Discipline** → Developers must commit small changes frequently.  
 - **Not Always Ideal for Large Teams** → May require additional coordination tools like stacked diffs (e.g., Meta’s `Sapling`).  
 
-
-### **Feature Branch Strategy vs. Trunk-Based Development (TBD)**  
-
-| **Aspect**              | **Feature Branch Strategy**                             | **Trunk-Based Development (TBD)**               |
-|-------------------------|---------------------------------------------------------|------------------------------------------------|
-| **Branching Model**     | Developers create long-lived feature branches.         | Developers commit directly to the trunk (`main`) or use short-lived branches. |
-| **Merge Frequency**     | Less frequent, often after days/weeks of work.         | Very frequent, usually multiple times per day. |
-| **Merge Complexity**    | High—long-lived branches cause complex merges (merge conflicts). | Low—small, incremental changes reduce conflicts. |
-| **Integration Approach**| Features are integrated late, often leading to large, risky merges. | Continuous integration ensures features are merged and tested quickly. |
-| **Feature Visibility**  | Features remain hidden in branches until merged.       | Feature flags are used to hide incomplete features in production. |
-| **Risk of Merge Hell**  | High—long-lived branches increase merge conflicts.     | Low—short-lived changes reduce risk. |
-| **Testing Strategy**    | Testing often happens at the end of the feature cycle. | Automated testing in CI/CD ensures quick feedback. |
-| **Deployment Frequency**| Less frequent due to large, bundled releases.         | Frequent, even multiple times per day. |
-| **Best for...**         | Projects where features take longer and require isolation. | Fast-paced, agile teams practicing continuous deployment. |
-
-### **Key Takeaways:**
-- **Feature Branch Strategy** is better when teams need feature isolation for longer development cycles.
-- **TBD** is best for **high-speed, continuous delivery environments**, reducing integration complexity.
+# Canary Deployment
+Canary deployment is a deployment strategy where you gradually roll out a new version of an application to a subset of users before making it available to everyone. This approach minimizes risk by allowing you to monitor the new version’s performance and catch potential issues before a full release.
