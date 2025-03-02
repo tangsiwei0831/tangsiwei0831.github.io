@@ -1,7 +1,7 @@
 ---
 title: 'Data Warehousing'
 date: 2025-01-27
-permalink: /posts/auth
+permalink: /posts/datawarehousing
 tags:
   - Data
 ---

@@ -142,6 +142,8 @@ List of the Toronto restaurants that I visited.
 
 [Shoeless Joe's Sports Grill](https://shoelessjoes.ca/): 3.1/5. Typical America food, washroom smells bad.
 
+[SOI Thaifoon](https://soithaifoon.com/): 4.1/5. Thai food is fine, but only a few types and the price is not cheap at all.
+
 [松亭寿喜烧 Matsutei Sukiyaki](https://www.instagram.com/matsuteisukiyaki/): 4.1/5. Ok food, if you live in downtown and cannot go to Daimaru, this might be the choice.
 
 [Soya mandarin kitchen](https://www.soyakitchen.com/): 4.4/5. Peking duck is not worth to order, pepper fired tofu and dim sum is pretty awesome.
