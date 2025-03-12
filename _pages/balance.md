@@ -23,9 +23,3 @@ Algorithm
 * [Grind 75](https://www.techinterviewhandbook.org/grind75) <br/>
 First Round: Dec 09 2024 - Present
 
-Resources
-======
-1. [Github Action tutorial](https://www.youtube.com/watch?v=TLB5MY9BBa4)
-
-2. [Module Federation](https://drive.google.com/file/d/1CYW2lLYIMwuh4z-aiGfIbmw58Hd4g5kV/view?usp=drive_link)
-

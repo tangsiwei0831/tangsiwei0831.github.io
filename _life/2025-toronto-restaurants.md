@@ -122,7 +122,7 @@ List of the Toronto restaurants that I visited.
 
 [Moon Palace](https://moon-palace.ca/): 4.2/5. Pretty good location, facing Eaton center, delicious roasted duck, but the price is a little bit high.
 
-[Muay Thai Bar & Restaurant](https://www.yelp.ca/biz/muay-thai-restaurant-and-bar-toronto): 4.6/5. Good price and food, delicious meal, drink is also great, service excellent!
+[Muay Thai Bar & Restaurant](https://www.yelp.ca/biz/muay-thai-restaurant-and-bar-toronto): 4.8/5. Good price and food, delicious meal, drink is also great, service excellent! Recommend beef hotpot!
 
 [Myungdong Noodle Shabu Shabu](https://www.mdkalguksu.com/): 4.1/5. Pan fried dumplings is good, ok Korea food, can try if you walk pass by, it is interesting that it locates in Indian town.
 
