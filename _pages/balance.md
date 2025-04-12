@@ -13,10 +13,13 @@ Notes
 ======
 * [HTTP server](https://github.com/tangsiwei0831/notes/blob/main/HTTP-server.md)
 
+* [Duke University: Introductory C Programming Specialization](https://github.com/tangsiwei0831/notes/tree/main/Introductory-C-Programming-Specialization)
+
 Code
 ======
 * [City Road](https://github.com/tangsiwei0831/city-road) <br/>
   An interactive web tool that visualizes road networks of cities using OpenStreetMap data, generating minimalistic yet detailed renderings.
+
 
 Algorithm
 ======

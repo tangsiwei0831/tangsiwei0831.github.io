@@ -86,7 +86,9 @@ List of the Toronto restaurants that I visited.
 
 [KaKa](https://kakaallyoucaneat.ca/): 4.3/5. Japanese AYCE, price is ok, worth to go if you are hungury!
 
-[Kinton Ramen](https://www.kintonramen.com/): 4.8/5. I like the spicy garlic pork noodle, the soup is good with so much garlic!
+[Kibo Sushi](kibosushi.com): 4.5/5. Especially for 36 Charlotte st one, I like the chicken cutlet or Salmon don, the quantity is awesome and the food is delicious, worth to buy if you live close by. It would be better if they have curry LOL.
+
+[Kinton Ramen](https://www.kintonramen.com/): 4.7/5. I like the spicy garlic pork noodle, the soup is good with so much garlic!
 
 [King taps](https://kingtaps.com/): 4.3/5. Fast food and bar, I order the chicken sandwitch and truffle fries, prety good, quantity is not small, good place to chat with colleagues.
 
@@ -94,9 +96,13 @@ List of the Toronto restaurants that I visited.
 
 [Koh Lipe](https://kohlipe.ca/): 4.9/5. Cheap price, declicious food, my favorite Thai food in Toronto.
 
+[KS BBQ & Noodles House](https://www.yelp.ca/biz/hks-bbq-and-noodle-house-markham): 4.9/5. Cheap price and large quantity, good taste, the only flaw is that many poeple will get in line to buy.
+
 [Lao Lao Bar](https://laolaobar.com/): 4.3/5. Special south-east food, the quantity is not that large, considering the location, price is ok, can try if you live nearby, Their chicken plate is pretty good.
 
 [Lee](https://leerestaurant.com/): 4.0/5. Average price 100+, Singapore style slaw worth to try, other is also ok, worth to go for one time.
+
+[李季·川菜·烧烤 Lee Brothers BBQ](https://gosnappy.io/owa/r/lee-brothers-bbq-bar/2067/menu_486/): 4.6/5. Good SiChuan style food, can take a try if you are nearby. Please order SPECIAL FLAVOR FRIED EGGPLANT!!!
 
 [刘一手火锅](https://www.liuyishouna.com/): 4.1/5. Just so so for a hot pot, you can have a try at this restaurant, at least it is not bad.
 
@@ -110,7 +116,7 @@ List of the Toronto restaurants that I visited.
 
 [Maguro House](https://www.yelp.ca/biz/maguro-house-toronto): 4.4/5. Compared to normal Japanaese restaurant, pretty large amount.
 
-[马记牛羊馆 Whole Sheep Feast Restaurant](https://www.ubereats.com/ca/store/whole-sheep-feast-halal-restaurant-%E9%A9%AC%E8%AE%B0%E5%9B%9E%E6%97%8F%E7%89%9B%E7%BE%8A%E9%A4%A8%E6%B8%85%E7%9C%9F/3X1DQ3gnXxqhZWqfuMNEyw?srsltid=AfmBOopTcY8y-wPt-cAQp-6Ar8mNVY6uioy30yx5rIAUODiFe0J_Y0pl): 4.7/5. Delicious food, especial;ly suitable to eat in winter, I like the lamb soup.
+[马记牛羊馆 Whole Sheep Feast Restaurant](https://www.ubereats.com/ca/store/whole-sheep-feast-halal-restaurant-%E9%A9%AC%E8%AE%B0%E5%9B%9E%E6%97%8F%E7%89%9B%E7%BE%8A%E9%A4%A8%E6%B8%85%E7%9C%9F/3X1DQ3gnXxqhZWqfuMNEyw?srsltid=AfmBOopTcY8y-wPt-cAQp-6Ar8mNVY6uioy30yx5rIAUODiFe0J_Y0pl): 4.8/5. Delicious food, especial;ly suitable to eat in winter, I like the lamb soup.
 
 [Mama Lee's Korean Kitchen (Takeout Only)](https://www.ubereats.com/ca/store/mama-lees-korean-kitchen/icZuBY6PTP6EdoFtYullYA?srsltid=AfmBOoqJgz5Gi4jJWiVKgtg_1CZyU_ofE00-2Zk1S2nJLzr0xuevaKYa): 4.4/5. If you live in nearby place like pinnacle centre, this would be a perfect choice, fried chicken is good, Bibibamp is also fantastic and the quantity is large.
 
@@ -139,6 +145,8 @@ List of the Toronto restaurants that I visited.
 [Ramen X Remix](https://ramenxremix.com/): 4.3/5. Pretty special ramen, but the price is a little high compared to other ramen.
 
 [Shinta](https://shintabbq.ca/): 4.5/5. Three levels of AYCE. Good quality of meat, 12% required tips, service is good. You can get cash off 10% before 5pm.
+
+[Sushi Kiwami](https://sushikiwami.ca/): 4.4/5. Omakasa Japanese style, $400 per person, food is pretty good but it is a little over expensive.
 
 [Shoeless Joe's Sports Grill](https://shoelessjoes.ca/): 3.1/5. Typical America food, washroom smells bad.
 
@@ -171,6 +179,8 @@ List of the Toronto restaurants that I visited.
 [Yang's Braised Chicken Rice(Mississauga)杨铭宇黄焖鸡米饭](https://order.mrsdigi.com/485316193107080/10e622c2-67f2-50ca-aaad-148f1916abe9#/splash-screen): 4.0/5. Good amount, ok taste, beef noodle is good, not spicy at all.
 
 [一家川菜馆](https://www.yijiachuancaiguan.com/): 4.2/5. close to UTSG, good price, ok food, cash price including tax 80 dollar is enough for at least three people have meal.
+
+[有局儿烧烤 Have Party BBQ](https://info.yorkbbs.ca/restaurant/bbq/havepartybbq)： 4.6/5. If I would choose to eat BBQ in Markham or Richmond Hill, I will choose either this one or Street Grill, both are awesome. Street Grill drink is better.
 
 [有米酸奶](https://www.yomiesriceyogurt.com/): 4.6/5. Order Mango Pomelo Sago Yogurt, I like it!
 
