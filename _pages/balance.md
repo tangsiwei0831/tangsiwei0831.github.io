@@ -25,5 +25,5 @@ Algorithm
 ======
 * [Grind 75](https://www.techinterviewhandbook.org/grind75) <br/>
 First Round: Dec 09 2024 - Apr 21 2025 <br/>
-Second Round: Apr 22 2025 - Present
+Second Round: Apr 23 2025 - Present
 
