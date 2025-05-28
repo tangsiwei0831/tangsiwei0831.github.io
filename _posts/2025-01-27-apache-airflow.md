@@ -14,10 +14,10 @@ tags:
 2. **Backfilling**: process of running computation for dates in the past. Typically occurs when new workflows 
    or existing ones are modified, there is a need to generate data for periods before the workflow is active or updated.
    * Reasons for backfilling: new workflow deployment, data pipeline modification, daa loss recovery or consistency across systems
-   * Suppoese there is a DAG scheduled to run daily, start date is Jan 1st 2023, and deploy time is Jan 10th 2023. If `catch_up` is true, then it will run 9 times in a row.
+   * Suppose there is a DAG scheduled to run daily, start date is Jan 1st 2023, and deploy time is Jan 10th 2023. If `catch_up` is true, then it will run 9 times in a row.
 
 # Scheduling
-The DAG running time is based on the start_date and end_date. For example, if I set the DAG to be running every day at 5 am Toronto time. Then if I set catch up parameter to be false, and the start date to be 2024-07-24. Then if I switch on DAG on 7-24, the DAG will not start running immediately, it will start from start_date + schedule_interval which is 24 hours after -25 which is 7-25. Therefore, the job will start at 7-25 5am.
+The DAG running time is based on the start_date and end_date. For example, if I set the DAG to be running every day at 5 am Toronto time. Then if I set catch up parameter to be false, and the start date to be 2024-07-24. Then if I switch on DAG on 7-24, the DAG will not start running immediately, it will start from start_date + schedule_interval which is 24 hours after which is 7-25. Therefore, the job will start at 7-25 5am.
 
 # Sample Airflow structure
 ```
@@ -85,4 +85,4 @@ globals()[dag_id] = create_dag(...)
     ```
 
 # Note
-1. If the DAG schedule is set to be 9:30 am UTC time once every day, then if I switch on the DAG at 12:30 pm, it will immediately starts since it thinks it is late for start.
+1. If the DAG schedule is set to be 9:30 am UTC time once every day and `catchup` is true, then if I switch on the DAG at 12:30 pm, it will immediately starts since it thinks it is late for start.

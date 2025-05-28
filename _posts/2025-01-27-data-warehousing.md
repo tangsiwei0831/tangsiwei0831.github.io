@@ -21,7 +21,7 @@ tags:
     | laptop  | 0    |        zzz     | 
     | phone | 1    |          yyy      |
 
-2. Type 2 add a new role for the new value and maintains the existing row for historical and reporting purposes
+2. Type 2 add a new row for the new value and maintains the existing row for historical and reporting purposes
 
     |  Name    |   ID    | Description |
     | -------- | ------- | ----------- |
@@ -37,7 +37,7 @@ tags:
     | phone | 1    |          yyy      |
     | laptop  | 0    |        zzz     | 
 
-3. Type 3 allows storage of bith current value and previous vious of the dimension's attributes in the same row, also it has the limited historical tracking. Last description go to prev Description column, updated description goes to current description column, change date reflects the modify time.
+3. Type 3 allows storage of both current and previous value of an attribute in the same row, also it has the limited historical tracking. Last description go to prev Description column, updated description goes to current description column, change date reflects the modify time.
 
     |  Name    |   ID    | Prev Description | Current Description | Change date |
     | -------- | ------- | ---------------- | ------------------- | ----------- |
