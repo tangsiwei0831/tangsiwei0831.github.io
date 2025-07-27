@@ -13,6 +13,8 @@ List of the Toronto restaurants that I visited.
 
 [Cheffry's Bistro](https://cheffrysbistro.com/): 4.8/5. Indian style cuisine, I like butter chicken poutine and pasta. The source is yammy. Worth to try!
 
+[China Impression Kitchen 馋苑小厨](https://chinaimpression.ca/): 4.7/5. If you go there, try their spicy food and their olive-vegentable fried rice, that is best!
+
 [Chiptole](https://www.chipotle.ca/): 4.5/5. I don't know, bro. Everytime I walked passed by this restaurant, it always smell so good.
 
 [Congee Queen](https://www.congeequeen.com/): 3.7/5. Ok food, various types of dishes, can have a try if walk by Eaton centre.
@@ -108,6 +110,8 @@ List of the Toronto restaurants that I visited.
 
 [Long Feng Hotpot龙凤打边炉](https://gosnappy.io/owa/r/loon-fong-hot-pot/1039/menu_397?skipBeforeEnter=true)：4.5/5. I like the beef hotpot, very good, recommend to go for a shot!
 
+[Mango Sticky Rice Canada](https://mangostickyrice.square.site/): 4.8/5. Their mango sticky rice is awesome!!! But they close ...
+
 [摸鱼 More Fish Restaurant](https://order.mrsdigi.com/004113222710074/e4804258-52cf-5114-ac71-3ba9b390f94b#/store-home): 3.6/5. Price is a little expensive compared to quantity. Although their recommendation is fish, but the fish is not that good and it is more than $40 for a plate, way too expensive, not recommend.
 
 [麻布](https://mabugeneration.com)：3.7/5. Order the out for delivery food, quantity is small compared to previous one.
@@ -191,4 +195,6 @@ List of the Toronto restaurants that I visited.
 [真牛中式烤肉 Kung Fu Beef Chinese BBQ](https://www.yelp.ca/biz/kung-fu-beef-chinese-bbq-%E7%9C%9F%E7%89%9B%E4%B8%AD%E5%BC%8F%E7%83%A4%E8%82%89-toronto): 4.0/5. Food is ok, lots of types to choose, worth to have a try. 
 
 [正宗维吾尔族餐厅 Charcoal Kebab House](https://www.ubereats.com/ca/store/charcoal-kebab-house-%E6%AD%A3%E5%AE%97%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F%E9%A4%90%E5%8E%85/Uvl8MVXVTA-lQvBo2w8nqg): 4.4/5. Huge amount, I like the lamb rice and the yogurt is also awesome.
+
+[紫金盛宴 Crown Prince Fine Dining and Banquet](https://crown-prince.ca/): 4.5/5. Popular dim sum, food is ok, but not that excellent, if you are nearby, you can have a try.
 

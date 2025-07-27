@@ -1,14 +1,30 @@
 ---
-title: "Global Restaurants"
+title: "Travel Restaurants"
 collection: life
-permalink: /life/globalRest
+permalink: /life/travelRest
 ---
 
 List of the global restaurants that I experienced during travel.
 
 <h1 style="margin: 0;">Canada</h1>
 <h3 style="margin: 3px;">London</h3>
-[Vietnam Taste-华苑](https://www.instagram.com/p/CalWAVCrY69/?igshid=ZDFmNTE4Nzc%3D): 4.9/5. It is interesting that its name sounds like they are vietnam food restaurant, but not only they have good pho, their chinese food is really good, I should say that's the best I have ever tasted in Canada, I cannot find other restaurant like that in Toronto.
+
+[Vietnam Taste 华苑](https://www.instagram.com/p/CalWAVCrY69/?igshid=ZDFmNTE4Nzc%3D): 4.9/5. It is interesting that its name sounds like they are vietnam food restaurant, but not only they have good pho, their chinese food is really good, I should say that's the best I have ever tasted in Canada, I cannot find other restaurant like that in Toronto.
+
+<h3 style="margin: 3px;">Vancouver</h3>
+
+[Barn Nork Aharn Thai](https://www.barnnork.com/): 4.7/5. Pretty good Thai food, if you go to whistler, you should have a try.
+
+[ebi-ten](https://www.yelp.ca/biz/ebi-ten-vancouver): 4.7/5. Go with friends Kenny, his favorite high school restaurant, fast Japanese style food. I like curry prok!!!
+
+[Green Leaf Sushi](https://greenleafsushi.ca/burnaby/): 4.8/5. Please order snapper tempura!!!
+
+[Royal Beef 皇牛家宴](https://royalbeef.zomi.menu/): 4.5/5. Standard Cantonese style food.
+
+[又起顺德小厨 loong’s chinese restaurant](https://loongschineserestaurant.zomi.menu/): 4.9/5. Execellent food, will have a try next time I go to Vancouver.
+
+[Chucila Restaurant 福苑海鲜酒家](https://www.chucila.ca/): 4.6/5. Good dim sum,better than any dim sum I tried in Toronto.
+
 
 <h3 style="margin: 3px;">Waterloo</h3>
 [Sushi Star](http://www.sushistarcanada.com/): 4.6/5. They have AYCE, but we just order by menu, their price is pretty cheap compared to the quantity, and taste is fine. worth to go. 
