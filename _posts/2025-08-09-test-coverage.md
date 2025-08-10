@@ -32,5 +32,5 @@ For Vitest, just run the command, then it is fine.
 
 
 For airflow test coverage, we use [python coverage.py](https://coverage.readthedocs.io/en/7.8.2/) to accompolish the goal, several key things to note:
-1. report generates in XML format, then we convert to json format by custom code if needed
+1. Report generates in XML format, then we convert to json format by custom code if needed
 2. Airflow test should not be running locally, instead it should run in cloud(GCP composer)
