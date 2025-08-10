@@ -1,6 +1,6 @@
 ---
 title: 'Apache Airflow'
-date: 2025-01-27
+date: 2025-08-09
 permalink: /posts/apache/airflow
 tags:
   - Data
@@ -83,6 +83,24 @@ globals()[dag_id] = create_dag(...)
         }
     )
     ```
+
+# local set up
+
+```
+# make sure logs generated in current directory
+export AIRFLOW_HOME=$pwd
+
+# run command
+airflow db migrate
+airflow db check
+airlfow standalone
+airflow db reset
+
+# kill process needed
+lsof -i:8080
+sudo fuser -k 8080/tcp
+kill -9 <pid>
+```
 
 # Note
 1. If the DAG schedule is set to be 9:30 am UTC time once every day and `catchup` is true, then if I switch on the DAG at 12:30 pm, it will immediately starts since it thinks it is late for start.

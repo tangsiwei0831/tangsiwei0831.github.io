@@ -11,8 +11,6 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014 -->
 * B.S. in Computer Science and Applied Mathematics with Statistics, University of Toronto, 2023
 
 Work experience
@@ -24,3 +22,7 @@ Work experience
     * Storybook, Playwright, React, Next.js, Module Federation, Java(Spring Boot), Kubernetes, GCP, Node.js, TypeScript, Linux
   3. Risk Engine(Assessment on Github repository commits)
     * Github Action, Kubernetes, GCP, Node.js(Fastify), TypeScript, Linux, Docker, Ngrok, Postman
+  4. Various ETL data pipeline projects
+    * Control-M, SQL, Shell script, GCP, Linux
+  5. Unit testing for Airflow factory code
+    * Github Adtion, Airflow, GCP, Terraform, python
