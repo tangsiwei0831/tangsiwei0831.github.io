@@ -1,7 +1,7 @@
 ---
-title: "Travel Restaurants"
+title: "Travel"
 collection: life
-permalink: /life/travelRest
+permalink: /life/travel
 ---
 
 List of the global restaurants that I experienced during travel.
@@ -19,6 +19,8 @@ List of the global restaurants that I experienced during travel.
 
 [Green Leaf Sushi](https://greenleafsushi.ca/burnaby/): 4.8/5. Please order snapper tempura!!!
 
+[Joffrey Lake](https://bcparks.ca/joffre-lakes-park/): Did not finish yet because of snow in May, will try next time. The trail is nice.
+
 [Royal Beef 皇牛家宴](https://royalbeef.zomi.menu/): 4.5/5. Standard Cantonese style food.
 
 [又起顺德小厨 loong’s chinese restaurant](https://loongschineserestaurant.zomi.menu/): 4.9/5. Execellent food, will have a try next time I go to Vancouver.
@@ -27,9 +29,14 @@ List of the global restaurants that I experienced during travel.
 
 
 <h3 style="margin: 3px;">Waterloo</h3>
+
 [Sushi Star](http://www.sushistarcanada.com/): 4.6/5. They have AYCE, but we just order by menu, their price is pretty cheap compared to the quantity, and taste is fine. worth to go. 
 
 [The Heidelberg Restaurant Tavern & Motel](https://www.oldhh.com/): 4.7/5. Very funny, the store is closed at 7pm on Sunday, when we arrive, it almost closes, so we got two pork hock out. It is very delicious, but it is a pity that I did not buy some beer, tha would be better.
+
+<h3 style="margin: 3px;">Quebec City</h3>
+
+[Clubmed](https://www.clubmed.ca/)： 4.6/5. All-included hotel, meal is nice, they also have hiking and bar. Nice if you stay there for around 5 day, as the food would be repetitive.
 
 <h1 style="margin: 0;">Korea</h1>
 <h3 style="margin: 3px;">Seoul</h3>

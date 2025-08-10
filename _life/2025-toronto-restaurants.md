@@ -5,13 +5,25 @@ permalink: /life/torontoRest
 ---
 List of the Toronto restaurants that I visited.
 
+[Anejo](https://www.anejo.ca/en/locations/on/toronto/600-king-street-west): 4.7/5. Mexico taco is good, just try it, quantity is also large.
+
+[Angara Indian and Hakka downtown](https://angararestaurant.ca/): 4.9/5. I like Indian food!!!
+
+[Auberge du Pommier](https://www.oliverbonacini.com/restaurants/auberge-du-pommier/): 4.1/5. Might be biased, I wen there is 2023 for winterlicious, not worth thr price at all.
+
 [Avenue Open Kitchen](https://ritual.co/order/avenue-open-kitchen-7-camden-st-toronto/2tnh): 4.6/5. Hard to find, very small restaurant, brunch is cheap, gives a large quantity of potatoes, sausages and eggs.
 
+[Brown Donkatsu](https://browndonkatsu.ca/): 4.6/5. Quantity is super large, order one dish is enough for two people, but I don't like therr are ketchup in the curry!
+
 [Byblos](https://byblosdowntown.com/): 4.9/5. Eastern Mediterranean cuisine, always worth to go to, lamb ribs top recommendation.
+
+[Charidise Bubble Tea & Fusion Restaurant](https://www.charidise.com/): 2.9/5. I got stomache after eating this, so would not recommend ...
 
 [Cheng du Street food 苍蝇馆子](https://www.chengdustreetfood.ca/): 4.1/5. Sichuan food, the quantity is not that big as it is in downtown. Can have a try if you want to taste Sechuan food in downtown Toronto.
 
 [Cheffry's Bistro](https://cheffrysbistro.com/): 4.8/5. Indian style cuisine, I like butter chicken poutine and pasta. The source is yammy. Worth to try!
+
+[Cherry St Bar-B-Que](https://www.cherrystbbq.com/): 4.2/5. Normal Amercaino BBQ, nothing special.
 
 [China Impression Kitchen 馋苑小厨](https://chinaimpression.ca/): 4.7/5. If you go there, try their spicy food and their olive-vegentable fried rice, that is best!
 
@@ -61,11 +73,15 @@ List of the Toronto restaurants that I visited.
 
 [Gyubee 牛兵卫](https://www.gyubeejapanesegrill.com/): 4.0/5. A famous korea BBQ restaurant, ok to go with friends if you want to eat meat. 
 
+[Gyugyuya](https://www.gyugyuya.com/): 4.7/5. I like curry pork!
+
 [好兄弟烧烤](https://www.instagram.com/goodbrotherbbq/): 4.1/5. Ok taste, price not expensive with discount in cash.
 
 [Hanyang Jokbal](https://www.instagram.com/p/CalWAVCrY69/?igshid=ZDFmNTE4Nzc%3D): 4.5/5. Nice pork hock, it has various taste, but I think original is the best.
 
 [Happy Valley Village 山里屯](https://www.instagram.com/happyvalleyvillage/?igshid=NDk2dHVtZGk2d2dq): 4.3/5. Nice to have a try if there are many people.
+
+[Haydn's Açaí & Frozen Yogurt](https://haydns.ca/): 4.5/5. Nice frozen yogurt, if you walk towards Exhibition centre, you can take a try.
 
 [后海味北京铜锅涮肉 Beijing Hot Pot Restaurant](https://info.yorkbbs.ca/detail/pot/80dd7c7a-242f-49b7-b369-13d184329b2d): 
 4.6/5. If you want to have a try with special beijing style hot pot, this worth to have a try, the pot has no taste, only pure water. This will let you to taste the original quality of the meat, and the source is good. 
@@ -86,7 +102,11 @@ List of the Toronto restaurants that I visited.
 
 [街边煎饼铺 Corner Crepe Co](https://www.yelp.ca/biz/corner-crepe-toronto): 4.9/5. It is near Univeristy of Toronto, worth to buy if you are in school, very cheap and they also provide you with free soy milk!
 
+[Ka Chi](https://kachikoreanrestauranttoronto.ca/index.html): 4.54/5. Normal underground korea food in Chinatown, can try it if you want eat Korea food when you are around Chinatown.
+
 [KaKa](https://kakaallyoucaneat.ca/): 4.3/5. Japanese AYCE, price is ok, worth to go if you are hungury!
+
+[Khao San Road](https://www.khaosanroad.ca/main): 4.4/5. Ok Thai food, I am living besides it, definitely will try for several times.
 
 [Kibo Sushi](kibosushi.com): 4.5/5. Especially for 36 Charlotte st one, I like the chicken cutlet or Salmon don, the quantity is awesome and the food is delicious, worth to buy if you live close by. It would be better if they have curry LOL.
 
@@ -140,6 +160,8 @@ List of the Toronto restaurants that I visited.
 
 [OEB](https://eatoeb.com/locations/toronto/?gclid=CjwKCAiAk9itBhASEiwA1my_61YsuBPw7S77-js1K5fg0TCPPQ18PB4cSD6sXOLOaIQ28aTUGCfYiBoCp1YQAvD_BwE): 4.5/5. Brunch Restaurant, main dishes are good, glass is tricky, the volume is smaller than what you think.
 
+[Owl of minerva](https://owlfamily.ca/): 4.3/5. Normal Korea food, but it is cheap.
+
 [Pita Lite Shawarma](https://pitalite.com/): 4.1/5. Chain store, cheap price to take shawarma, I like the chicken bowl, pretty good. 
 
 [青屿治茶The Green Isle](https://cloud.quickposhub.com/onlineorder/#/pages/order/index?hotelid=111801&fc=up): 4.9/5. I like this store the most in Toronto for their teas. 
@@ -147,6 +169,8 @@ List of the Toronto restaurants that I visited.
 [RASA](https://www.rasabar.ca/): 4.4/5. Octopus, shrimp and burger are all good. But the price is too high compared to quantity, can go once to take a try. 
 
 [Ramen X Remix](https://ramenxremix.com/): 4.3/5. Pretty special ramen, but the price is a little high compared to other ramen.
+
+[Rikki Tikki](https://rikkitikki.ca/): 4.8/9. Nice food, I like mango lassi!!!
 
 [Shinta](https://shintabbq.ca/): 4.5/5. Three levels of AYCE. Good quality of meat, 12% required tips, service is good. You can get cash off 10% before 5pm.
 
@@ -158,15 +182,21 @@ List of the Toronto restaurants that I visited.
 
 [松亭寿喜烧 Matsutei Sukiyaki](https://www.instagram.com/matsuteisukiyaki/): 4.1/5. Ok food, if you live in downtown and cannot go to Daimaru, this might be the choice.
 
+[Shake Shack](https://shakeshack.ca/): 4.2/5. Smoothie is too sweet, chichken burger is ok, but price is high ...
+
 [Soya mandarin kitchen](https://www.soyakitchen.com/): 4.4/5. Peking duck is not worth to order, pepper fired tofu and dim sum is pretty awesome.
 
 [Sun Chinese Cuisine 孙记兰州拉面](https://order.mealkeyway.com/customer/release/index?mid=31313976723430517a6b59556249366e772b646574513d3d#/main): 4.1/5. Ok noodle, worth to go if you live nearby. 
 
 [St Lawrence Market](http://www.stlawrencemarket.com/): 4.8/5. I like the crispy pork belly, calamari and lobster sandwitch over there, furits and meats are fresh, good place for shopping and visit.
 
+[The Cups(Finch)](https://www.cupscanada.ca/): 4.4/5. I like oreo, if you can find one store nearby, you can try.
+
 [The Keg](https://thekeg.com/en?gad_source=1&gclid=EAIaIQobChMI16DBlaTPhAMVMnNHAR0uEwi1EAAYASAAEgKdIvD_BwE): 4.2/5. Ok price for try steak.
 
 [The Old Spaghetti Factory](https://oldspaghettifactory.ca/locations/toronto/): 3.7/5. Good price and location, close to union station, worth to go after work with colleagues.
+
+[Tutti Matti](https://tuttimatti.com/): 3.9/5. Taste is just soso, only three noddles in a plate ...
 
 [Urumchi Uyghur Cuisine](https://www.ubereats.com/ca/store/urumchi-uyghur-cuisine/PaNClHhRVkOgjxtrDq4aXA?srsltid=AfmBOoqAeRjmoONmNL2DUlcraEbaF0YK0rPY5-W23QYLs580si2pVxY6): 4.1/5.  Ok XinJiang style food, not that great, normal plate.
 
