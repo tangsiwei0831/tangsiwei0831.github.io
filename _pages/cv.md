@@ -25,4 +25,5 @@ Work experience
   4. Various ETL data pipeline projects
     * Control-M, SQL, Shell script, GCP, Linux
   5. Unit testing for Airflow factory code
-    * Github Adtion, Airflow, GCP, Terraform, python
+    * Github Action, Airflow, GCP, Terraform, python
+
