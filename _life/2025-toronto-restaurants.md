@@ -13,6 +13,8 @@ List of the Toronto restaurants that I visited.
 
 [Avenue Open Kitchen](https://ritual.co/order/avenue-open-kitchen-7-camden-st-toronto/2tnh): 4.6/5. Hard to find, very small restaurant, brunch is cheap, gives a large quantity of potatoes, sausages and eggs.
 
+[Bao House](https://www.bao-house.ca/): 4.1/5. Just premade Chinese food, if you are Chinese, no need to try again.
+
 [Brown Donkatsu](https://browndonkatsu.ca/): 4.6/5. Quantity is super large, order one dish is enough for two people, but I don't like therr are ketchup in the curry!
 
 [Byblos](https://byblosdowntown.com/): 4.9/5. Eastern Mediterranean cuisine, always worth to go to, lamb ribs top recommendation.
@@ -25,7 +27,9 @@ List of the Toronto restaurants that I visited.
 
 [Cherry St Bar-B-Que](https://www.cherrystbbq.com/): 4.2/5. Normal Amercaino BBQ, nothing special.
 
-[China Impression Kitchen 馋苑小厨](https://chinaimpression.ca/): 4.7/5. If you go there, try their spicy food and their olive-vegentable fried rice, that is best!
+[Chicken King鸡皇店](https://www.instagram.com/chickenking_toronto/): 4.6/5. If you go to midland finch, you should try for this, I think half salty flavor is enough. 
+
+[China Impression Kitchen 馋苑小厨](https://chinaimpression.ca/): 4.7/5. If you go there, try their spicy food and their olive-vegetable fried rice, that is best!
 
 [Chiptole](https://www.chipotle.ca/): 4.5/5. I don't know, bro. Everytime I walked passed by this restaurant, it always smell so good.
 
@@ -35,11 +39,13 @@ List of the Toronto restaurants that I visited.
 
 [大个子砂锅王](https://www.fantuanorder.com/local-life/zh-CN/merchant-reviews/store/pot-licious-stew--3ed9a1e4e9cdb95f86670b6594a75d96-CA): 4.4/5. Good food with cheap price, I like hot pot. 
 
-[大鸭梨](https://places.singleplatform.com/dayali/menu?ref=google#menu_2368384): 3.5/5. Just so so, nothing to say. Roasted duck is ok, doubt they reduce the quantity. 
+[大鸭梨](https://places.singleplatform.com/dayali/menu?ref=google#menu_2368384): 3.5/5. Just so so, nothing to say. Roasted duck is ok, doubt that they reduce the quantity. 
 
 [Deer Garden](https://www.deergarden.net/): 4.4/5. Noodle is prety good and large quantity, Hainan Chicken is also delicious!
 
-[Delicacy Kitchen 广州清心鸡](https://www.delicacy-kitchen.com/)： 4.5/5. Chicken is prey awesome, quatity is large, emmm, the flavor is not that salty on some dishes, I would try if I go the Cosco nearby.
+[Delicacy Kitchen 广州清心鸡](https://www.delicacy-kitchen.com/): 4.5/5. Chicken is pretty awesome, quantity is large, emmm, the flavor is not that salty on some dishes, I would try if I go the Costco nearby.
+
+[Dock of the bay steak & seafood grille](https://dockofthebay.ca/): 3.9/5. Normal food, service is just so so, although near water, not feeling in good mood.
 
 [Dong Kee Chinese Restaurant](https://www.yelp.ca/biz/dong-kee-toronto): 4.8/5. Cantonese cuisine, very cheap price, six poeple totally $207, would recommend go again.
 
@@ -67,6 +73,8 @@ List of the Toronto restaurants that I visited.
 
 [付小姐在成都 Miss Fu In Chengdu](https://www.missfuinchengdu.ca/): 4.2/5. It is good to try instant boiled spicy hot pot. 
 
+[Georgian House Authentic Restaurant Downtown](http://ghrest.ca/): 3.9/5. The skin of Lamb Khinkali is too thick, not good taste. Pork Kebab is fine but not too much flavors.The blue berry desert is disgusting ...
+
 [Good Catch Bar & Cafe](https://goodcatchbarcafe.com/good-catch-cafe/): 4.2/5. Normal Kong Kong style food, pretty large quantity considering price. Recommend Assorted grilled rice.
 
 [狗不理](http://goubuli.ca/): 3.4/5. Food are fine price not that cheap. 
@@ -75,9 +83,13 @@ List of the Toronto restaurants that I visited.
 
 [Gyugyuya](https://www.gyugyuya.com/): 4.7/5. I like curry pork!
 
-[好兄弟烧烤](https://www.instagram.com/goodbrotherbbq/): 4.1/5. Ok taste, price not expensive with discount in cash.
+[Hainan Noodles](https://www.skipthedishes.com/hainan-noodles-inc-steeles): 4.0/5. Hainan Chicken is normal, not juicy and price is not that cheap comaring with other restaurants in GTA.
+
+[Hai Tang Cafe](https://www.haitangcafe.com/): 4.8/5. Normal Hong Kong style cafe and price is very cheap!
 
 [Hanyang Jokbal](https://www.instagram.com/p/CalWAVCrY69/?igshid=ZDFmNTE4Nzc%3D): 4.5/5. Nice pork hock, it has various taste, but I think original is the best.
+
+[好兄弟烧烤](https://www.instagram.com/goodbrotherbbq/): 4.1/5. Ok taste, price not expensive with discount in cash.
 
 [Happy Valley Village 山里屯](https://www.instagram.com/happyvalleyvillage/?igshid=NDk2dHVtZGk2d2dq): 4.3/5. Nice to have a try if there are many people.
 
@@ -101,6 +113,8 @@ List of the Toronto restaurants that I visited.
 [街边大排档](https://www.ubereats.com/ca/store/%E8%A1%97%E8%BE%B9%E5%A4%A7%E6%8E%92%E6%A1%A3-hans-stir-fry-bbq/86Y2jMizWUG7pWeGe9R3Cw): 3.9/5. Price is ok and quantity is large. Can have a try if have any discount activity.
 
 [街边煎饼铺 Corner Crepe Co](https://www.yelp.ca/biz/corner-crepe-toronto): 4.9/5. It is near Univeristy of Toronto, worth to buy if you are in school, very cheap and they also provide you with free soy milk!
+
+[Joy Noodle Cafe乐心餐厅](https://joy-noodle-cafe.cafe-agora.com/): 4.6/5. Hainan Chicken is pretty awesome! Chicken is so juicy!
 
 [Ka Chi](https://kachikoreanrestauranttoronto.ca/index.html): 4.54/5. Normal underground korea food in Chinatown, can try it if you want eat Korea food when you are around Chinatown.
 
@@ -131,6 +145,8 @@ List of the Toronto restaurants that I visited.
 [Long Feng Hotpot龙凤打边炉](https://gosnappy.io/owa/r/loon-fong-hot-pot/1039/menu_397?skipBeforeEnter=true)：4.5/5. I like the beef hotpot, very good, recommend to go for a shot!
 
 [Mango Sticky Rice Canada](https://mangostickyrice.square.site/): 4.8/5. Their mango sticky rice is awesome!!! But they close ...
+
+[Miss Qu Barbecue & Restaurant 曲小姐江湖菜烧烤酒馆](https://www.instagram.com/miss_qu_bbq/): 4.7/5. Pretty good food and BBQ, worth try if you are nearby.
 
 [摸鱼 More Fish Restaurant](https://order.mrsdigi.com/004113222710074/e4804258-52cf-5114-ac71-3ba9b390f94b#/store-home): 3.6/5. Price is a little expensive compared to quantity. Although their recommendation is fish, but the fish is not that good and it is more than $40 for a plate, way too expensive, not recommend.
 
@@ -195,6 +211,10 @@ List of the Toronto restaurants that I visited.
 [The Keg](https://thekeg.com/en?gad_source=1&gclid=EAIaIQobChMI16DBlaTPhAMVMnNHAR0uEwi1EAAYASAAEgKdIvD_BwE): 4.2/5. Ok price for try steak.
 
 [The Old Spaghetti Factory](https://oldspaghettifactory.ca/locations/toronto/): 3.7/5. Good price and location, close to union station, worth to go after work with colleagues.
+
+[To-ne Sushi](https://www.tonesushi.ca/): 4.4/5. Normal sushi bar, nothing special. Can go again if you walk crossby.
+
+[Turquoise Restaurant (Downtown Toronto)](https://turquoiserestaurants.com/): 4.6/5. Interesting Turkish style restaurant with many flavors, worth to take a try.
 
 [Tutti Matti](https://tuttimatti.com/): 3.9/5. Taste is just soso, only three noddles in a plate ...
 

@@ -31,7 +31,7 @@ run: |
     {
         "event_type": "coverage_upload",
         "client_payload": {
-            "coverage_artifact_url": $(jq -n --arg url "${{steps/artifact.outputs.url}}" 'url'),
+            "coverage_artifact_url": $(jq -n --arg url "${{steps.artifact.outputs.url}}" 'url'),
             "repo_token": $(jq -n --arg url "${{secrets.WORKFLOW_PAT}}" 'token')
         }
     }

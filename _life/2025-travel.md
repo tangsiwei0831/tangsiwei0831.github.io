@@ -38,6 +38,31 @@ List of the global restaurants that I experienced during travel.
 
 [Clubmed](https://www.clubmed.ca/)： 4.6/5. All-included hotel, meal is nice, they also have hiking and bar. Nice if you stay there for around 5 day, as the food would be repetitive.
 
+<h1 style="margin: 0;">Iceland</h1>
+
+[Black Crust Pizzeria](https://blackcrustpizzeria.com/): 4.4/5. Truffle Pizza is ok, not too special.
+
+[Geysir Glima Restaurant](https://hotelgeysir.is/geysir-restaurant/geysir-glima-restaurant/): 4.6/5. It is near the fountain, I like the lamb soup so much.
+
+[Grai kotturinn](https://www.graikotturinn.is/english): 4.1/5. Normal breakfast, nothing special.
+
+[Gunna á Leiti](https://hoteljokulsarlon.is/opening-hours/): 3.0/5. If you live in Hotel Jokulsarlon, do not go to this inner restaurant to eat, it is a scam .... no matter brunch or dinner, not worth at all.
+
+[Heimahumar "Local Langoustine" Truck](https://www.tripadvisor.ca/Restaurant_Review-g189960-d10541727-Reviews-Heimahumar_Local_Langoustine-Hofn_East_Region.html): 4.9/5. The lobster roll and lobster soup deiniftely needs to taste!!!
+
+[Kopar](https://koparrestaurant.is/en/): 4.4/5. Good food but is expensive... Some courses are a little strange, but worth to try.
+
+[Northern Light Bite](https://www.biti.is/): 4.5/5. Food truck near the lake. Fish and chips are fine, fish is ok, not that special.
+
+[Restaurant Suður-Vík](https://www.instagram.com/sudurvik/): 4.8/5. Would definitely recommend to go if you visit Vik, every dish is so good!
+
+[Sandholt](https://sandholt.is/en/our-menu/): 4.5/5. Decent brunch place in Reykjavík.
+
+[Smiðjan Brugghús](https://smidjanbrugghus.is/?srsltid=AfmBOoqM6Nio7nXlrepQZ5dPM8_35tKM_JSsDJdrpEXx6oLylK8_XRm_): 4.6/5. I like the chicken wings here~
+
+[The soup company](https://thesoup.company/): 4.6/5. Recommend to try after watching lava show, the soup can be refilled!!!
+
+
 <h1 style="margin: 0;">Korea</h1>
 <h3 style="margin: 3px;">Seoul</h3>
 [Cheongsudang Bakery](https://www.instagram.com/cheongsudang_/): 4.6/5. Good place if you want o have a drink and taste some dessert.
