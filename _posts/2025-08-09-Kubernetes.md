@@ -19,5 +19,4 @@ Port-forwarding
 
     kubectl get pods
     kubectl port-forward  ... 8081:8080 -n ...
-
 ```

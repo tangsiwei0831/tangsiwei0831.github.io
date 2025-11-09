@@ -83,6 +83,8 @@ List of the Toronto restaurants that I visited.
 
 [Gyugyuya](https://www.gyugyuya.com/): 4.7/5. I like curry pork!
 
+[Gyuki](https://gyukirestaurant.com/): 4.1/5. Normal Japanese curry, not much impression.
+
 [Hainan Noodles](https://www.skipthedishes.com/hainan-noodles-inc-steeles): 4.0/5. Hainan Chicken is normal, not juicy and price is not that cheap comaring with other restaurants in GTA.
 
 [Hai Tang Cafe](https://www.haitangcafe.com/): 4.8/5. Normal Hong Kong style cafe and price is very cheap!

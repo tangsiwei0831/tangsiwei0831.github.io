@@ -51,3 +51,14 @@ tags:
 
 # Canary Deployment
 Canary deployment is a deployment strategy where you gradually roll out a new version of an application to a subset of users before making it available to everyone. This approach minimizes risk by allowing you to monitor the new version’s performance and catch potential issues before a full release.
+
+
+# Node package maintenance
+1. Use npm outdated command to list uotdated packages or use [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) package to check for updates
+2. Update dependencies
+    - Minor/Patch Updates: Update version to the latest
+    - Major Updates
+      - Review CHANGELOG in official Github repository of the package for any breaking changes
+      - If no breaking changes, update to latest
+      - If there is breaking changes, create a scoping ticket to evaluate impact
+3. testing: for packages, ensure all test passes, rebuild packages and use [yalc](https://github.com/wclr/yalc) to locally link packages to a sample app for testing

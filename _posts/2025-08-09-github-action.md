@@ -55,6 +55,56 @@ run: |
 ```
 
 
+# Matrix
+A matrix is a way to tell GitHub Actions:Run this same job multiple times — but with different parameters (like OS, language version, or dependencies).
+
+If you want to test your app on multiple versions of Python, you might write:
+```
+jobs:
+  test_py38:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.8
+      - run: pytest
+
+  test_py39:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.9
+      - run: pytest
+```
+You can replace that with one job using a matrix:
+```
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8, 3.9, 3.10]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - run: pytest
+```
+The matrix field defines combinations of variables. GitHub Actions expands them into all possible combinations(Cartesian product).
+```
+matrix:
+  os: [ubuntu-latest, windows-latest]
+  node: [16, 18]
+```
 # Note
-When your trigger is `workflow_run` and the workflow is in your feature branch, it will not be working because this event will only trigger a workflow run if the workflow file exists on the default branch!!!
+1. When your trigger is `workflow_run` and the workflow is in your feature branch, it will not be working because this event will only trigger a workflow run if the workflow file exists on the default branch!!!
+2. The reusable workflow from other repos can only be used at top level of the Github action, which is job level, you cannot set it in step level.
+3. The best way to pass the file between jobs would be artifact url. However, in order to download file from artifact link, you need to use curl command and token to do that, like blow
+    ```
+    curl -L -H "Authorization: Bearer ${Token} {ARTIFACT_URL}" -o "<path>"
+    ```
 

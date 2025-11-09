@@ -102,5 +102,41 @@ sudo fuser -k 8080/tcp
 kill -9 <pid>
 ```
 
+
+# Operator
+1. `BranchPythonOperator`:lets you choose one or more downstream tasks to execute based on a Python function’s return value.
+   - Return value must match the task_id (or list of task_ids) of downstream tasks.
+   - Great for branching logic, e.g. “if file exists, process it; else, alert someone.”
+   - Skipped tasks are marked as skipped in the Airflow UI.
+    ```
+    def decide_branch(**context):
+        # Example logic
+        value = 42
+        if value > 10:
+            return "task_a"
+        else:
+            return "task_b"
+
+    with DAG(
+        "branch_example",
+        start_date=datetime(2025, 1, 1),
+        schedule_interval=None,
+        catchup=False,
+    ) as dag:
+
+        branch = BranchPythonOperator(
+            task_id="branch_task",
+            python_callable=decide_branch,
+            provide_context=True,
+        )
+
+        task_a = DummyOperator(task_id="task_a")
+        task_b = DummyOperator(task_id="task_b")
+        end = DummyOperator(task_id="end")
+
+        branch >> [task_a, task_b] >> end
+    ```
+
+2. `ShortCircuitOperator`: It decides whether downstream tasks run at all, based on a boolean condition.
 # Note
 1. If the DAG schedule is set to be 9:30 am UTC time once every day and `catchup` is true, then if I switch on the DAG at 12:30 pm, it will immediately starts since it thinks it is late for start.
