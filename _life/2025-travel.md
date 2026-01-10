@@ -62,6 +62,36 @@ List of the global restaurants that I experienced during travel.
 
 [The soup company](https://thesoup.company/): 4.6/5. Recommend to try after watching lava show, the soup can be refilled!!!
 
+<h1 style="margin: 0;">Japan</h1>
+
+<h3 style="margin: 3px;">Osaka</h3>
+
+[Amity Landing restaurant](https://www.usj.co.jp/web/ja/jp/restaurants/amity-landing-restaurant): 3.0/5. Not sure for other restaurants, emmm, I don't like this one too much. But it is in Universal Studio.
+
+[Niku Gekijou Shinsaibashi](https://nikudonsenmonten.com/index.html): 4.9/5. Must go there if you are in Osaka!!! Try the spicy one, it is so good! Also, it is in the shopping area, just take a walk.
+
+[Ocharanya Yodobashi-camera](https://tabelog.com/osaka/A2701/A270101/27064406/): 4.2/5. A nice ramen place in the mall, if you walk by and do not have too many choices, you can eat it.
+
+[ODD](https://tabelog.com/osaka/A2701/A270101/27118394/dtlmenu/): 4.0/5. Many local people went there, emmm, no that good as I think. You need to have line!
+
+[Ohitsu Gohan 46 Tokinaka LINKS UMEDA Store](https://www.aeoneaheart.co.jp/shops/): 4.6/5. It is mainly for eating Unadon. Very delicious, fresh and crispy. Price is not cheap.
+
+[Yoshinoya Shibatacho Branch](https://www.yoshinoya.com/menu/): 4.5/5.  I go there for breakfast everyday hahh. Cheap and convenient, they will also give 100 JNY voucher every time!
+
+<h3 style="margin: 3px;">Kyoto</h3>
+
+[酒ト和食ほっこり京都木屋町本店](https://hokkori.jproject-shop.jp/kyoto-kiyamachi/): 4.5/5. Nice Izakaya place.
+
+[Kuro Cafe Kyoto](https://www.instagram.com/kurocafe_kyoto/): 4.9/5. Best matcha I have ever tried in my life!
+
+[Kyoyakiniku Shin Pontochoten](https://proceed-kyoto.com/shin/menu/): 4.9/5. Their wagyu is awesome. Don't forget to try their garlic rice!!!
+
+[Mensho Takamatsu - Kawaramachi](https://mensho.net/): 4.3/5. Nice and fast ramen, convenient plac eto eat after a visit. 
+
+[Nishiki Market](https://www.kyoto-nishiki.or.jp/): 4.9/5. It has many good local food and souvenirs to buy. I would visit again if I back to Kyoto.
+
+[Tokyo Monja & Teppanyaki Sakaba Dotepan Kyoto Kiyamachi](https://tabelog.com/kyoto/A2601/A260301/26043730/?cid=google_yoyaku): 4.8/5. Nice Teppanyaki and it is close to our hotel. 
+
 
 <h1 style="margin: 0;">Korea</h1>
 <h3 style="margin: 3px;">Seoul</h3>
