@@ -45,6 +45,8 @@ List of the Toronto restaurants that I visited.
 
 [Delicacy Kitchen 广州清心鸡](https://www.delicacy-kitchen.com/): 4.5/5. Chicken is pretty awesome, quantity is large, emmm, the flavor is not that salty on some dishes, I would try if I go the Costco nearby.
 
+[Dil Tak Indian Cuisine and Bar](https://diltak.ca/): 4.0/5. Eating with my third rotation managers and director. Unique experience. Food is cheap and large quantity, can go with coworkers.
+
 [Dock of the bay steak & seafood grille](https://dockofthebay.ca/): 3.9/5. Normal food, service is just so so, although near water, not feeling in good mood.
 
 [Dong Kee Chinese Restaurant](https://www.yelp.ca/biz/dong-kee-toronto): 4.8/5. Cantonese cuisine, very cheap price, six poeple totally $207, would recommend go again.
@@ -216,11 +218,15 @@ List of the Toronto restaurants that I visited.
 
 [To-ne Sushi](https://www.tonesushi.ca/): 4.4/5. Normal sushi bar, nothing special. Can go again if you walk crossby.
 
+[Tono by Akira Back](https://tonobyakirabacktoronto.com/): 4.9/5. Every dfish is awesome, worth for a try.
+
 [Turquoise Restaurant (Downtown Toronto)](https://turquoiserestaurants.com/): 4.6/5. Interesting Turkish style restaurant with many flavors, worth to take a try.
 
 [Tutti Matti](https://tuttimatti.com/): 3.9/5. Taste is just soso, only three noddles in a plate ...
 
 [Urumchi Uyghur Cuisine](https://www.ubereats.com/ca/store/urumchi-uyghur-cuisine/PaNClHhRVkOgjxtrDq4aXA?srsltid=AfmBOoqAeRjmoONmNL2DUlcraEbaF0YK0rPY5-W23QYLs580si2pVxY6): 4.1/5.  Ok XinJiang style food, not that great, normal plate.
+
+[Woodstone Eatery 森石](https://order.mrsdigi.com/79BGCN4P6F3URKXA#/): 4.7/5. Typical Hong Kong food. Nice Hainan Chicken!
 
 [西域食府](https://magicaltasteofchina.com/dt476): 4.2/5. XinJiang style food, ok for try, Lamb Pilaf my favourite.
 
