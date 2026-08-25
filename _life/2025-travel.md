@@ -17,11 +17,19 @@ List of the global restaurants that I experienced during travel.
 
 [ebi-ten](https://www.yelp.ca/biz/ebi-ten-vancouver): 4.7/5. Go with friends Kenny, his favorite high school restaurant, fast Japanese style food. I like curry prok!!!
 
+[Fat cat sushi](https://www.zomi.menu/shop/fatcatsushi): 4.1/5. Nothing special, we just park our car nearby, that's why we go ~ The boss said that they will be busy after 12pm, so ask us to eat quick, but we see no one around 12...
+
 [Green Leaf Sushi](https://greenleafsushi.ca/burnaby/): 4.8/5. Please order snapper tempura!!!
+
+[江南小灶 JiangNan Wok](https://www.zmenu.com/%E6%B1%9F%E5%8D%97%E5%B0%8F%E7%81%B6-jiangnan-wok-richmond-bc-online-menu/): 4.8/5. This is one of my favorite in Vancouver. I would only say not such kind of restaurant in Toronto, please order steamed pork meat ball, so good ~
 
 [Joffrey Lake](https://bcparks.ca/joffre-lakes-park/): Did not finish yet because of snow in May, will try next time. The trail is nice.
 
+[品一品香锅料理 chef pin richmond](https://www.instagram.com/explore/locations/471732789963602/chef-pin/): 4.5/5. Ok taste, but cannot understand why so many people line here ... And the menu does not provide too many kinds, so not worth waiting for long.
+
 [Royal Beef 皇牛家宴](https://royalbeef.zomi.menu/): 4.5/5. Standard Cantonese style food.
+
+[Skewers Souvlaki Pita Bar](https://skewersgastown.ca/): 4.6/5. Very good quantity and room is small, if you walk by, nice to have a try.
 
 [又起顺德小厨 loong’s chinese restaurant](https://loongschineserestaurant.zomi.menu/): 4.9/5. Execellent food, will have a try next time I go to Vancouver.
 
