@@ -109,6 +109,29 @@ List of the global restaurants that I experienced during travel.
 
 [Yeongyang Center Main](https://blog.naver.com/PostView.nhn?blogId=gduzz&logNo=223560175427&redirect=Dlog&widgetTypeCall=true): 4.6/5. Ginseng Chicken Soup, very special.
 
+<h1 style="margin: 0;">UK</h1>
+
+<h3 style="margin: 3px;">Edingburgh</h3>
+
+[Howies](https://www.howies.uk.com/venues/scotts-kitchen/#menu): 4.4/5. Cannot remember any special, they also have cullen skink, but less quantity, so it is ok. 
+
+[The Mussel and Steak Bar](https://www.musselandsteakbar.com/): 4.9/5. Man, what I can say, their Cullen Skink is a must try! I order two! Dip it with bread, that's is my favorite!!!
+
+<h3 style="margin: 3px;">London</h3>
+
+[Bacchanalia](https://bacchanalia.co.uk/): 4.6/5. Just remember food is nice, but I have to say, the sculpture and the washroom is tooo beautiful LOL.
+
+[Coco Grill & Lounge](https://www.coco-restaurants.com/coco-index.html): 4.2/5. Just random city work near the bridge, have some food, nothing special.
+
+[fallow](https://fallowrestaurant.com/): 4.8/5. If you travel to London, you need to visit. They have a special course, Cod's head. Emmmm, very strange, check if you like it hahh. P.S. We ate this kust before world cup Britain vs Norway. The driver watches the game while drive lol.
+
+[hobson's fish and chips](https://www.hobsonsfishandchips.com/): 4.5/5. Nice fish and chips, not expensive, it is just fish and chips, isn't it? So nothing amazing
+
+[Kudu](https://kuducollective.com/): 4.7/5. Steak is amazing, South Africa food, worth to take a shot if you come to travel. Remember, book in advance!
+
+[The folly](https://www.the-folly.co.uk/book-now?utm_source=google&utm_medium=cpc&utm_campaign=23942498066&utm_content=192769187650&utm_term=the%20folly%20restaurant&gad_source=1): 4.4/5. I don't remember the food on that day, but I still rememmber eat together with my friend Kenny in Oxford. That is memoriable. 
+
+
 <h1 style="margin: 0;">USA</h1>
 <h3 style="margin: 3px;">New York</h3>
 [Bangkok Super Club](https://www.bangkoksupperclubnyc.com/): 4.2/5.Ok Thai food near Hudson River, not worth to try.

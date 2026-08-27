@@ -45,6 +45,8 @@ List of the Toronto restaurants that I visited.
 
 [Delicacy Kitchen 广州清心鸡](https://www.delicacy-kitchen.com/): 4.5/5. Chicken is pretty awesome, quantity is large, emmm, the flavor is not that salty on some dishes, I would try if I go the Costco nearby.
 
+[Desi Bar & Grill](https://desibarandgrill.ca/): 4.8/5. I went to Missisauga one with my friend Yash. Local recommendation, wor th a try, their grill is on fire!
+
 [Dil Tak Indian Cuisine and Bar](https://diltak.ca/): 4.0/5. Eating with my third rotation managers and director. Unique experience. Food is cheap and large quantity, can go with coworkers.
 
 [Dock of the bay steak & seafood grille](https://dockofthebay.ca/): 3.9/5. Normal food, service is just so so, although near water, not feeling in good mood.
@@ -179,6 +181,8 @@ List of the Toronto restaurants that I visited.
 [粘一筷子](https://info.yorkbbs.ca/detail/sichuan/a137d8ad-78c3-4975-a5a1-35e58dfb3c63): 4.8/5. Spicy SiChuan food, large quantity, can only walk in, so need to wait.
 
 [OEB](https://eatoeb.com/locations/toronto/?gclid=CjwKCAiAk9itBhASEiwA1my_61YsuBPw7S77-js1K5fg0TCPPQ18PB4cSD6sXOLOaIQ28aTUGCfYiBoCp1YQAvD_BwE): 4.5/5. Brunch Restaurant, main dishes are good, glass is tricky, the volume is smaller than what you think.
+
+[Omni Noodle Palace(Yonge Sheppard Centre) 东方宫兰州牛肉拉面](https://omninoodle.ca/): 4.5/5. emmm, nice nodles, I like their barbecue, if you live nearbym then this is your place hahh.
 
 [Owl of minerva](https://owlfamily.ca/): 4.3/5. Normal Korea food, but it is cheap.
 
