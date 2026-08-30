@@ -5,6 +5,8 @@ permalink: /life/torontoRest
 ---
 List of the Toronto restaurants that I visited.
 
+[555 Boat Noodles & Maya Bay Thai](https://555noodles.com/): 4.7/5. Their pork rice bowl is excellent, I haven't tried their boat noodles, but many people tell me that is good. I guess I have to try. Their coconut custard and ango sticky rice is also great!
+
 [Anejo](https://www.anejo.ca/en/locations/on/toronto/600-king-street-west): 4.7/5. Mexico taco is good, just try it, quantity is also large.
 
 [Angara Indian and Hakka downtown](https://angararestaurant.ca/): 4.9/5. I like Indian food!!!
@@ -12,6 +14,8 @@ List of the Toronto restaurants that I visited.
 [Auberge du Pommier](https://www.oliverbonacini.com/restaurants/auberge-du-pommier/): 4.1/5. Might be biased, I wen there is 2023 for winterlicious, not worth thr price at all.
 
 [Avenue Open Kitchen](https://ritual.co/order/avenue-open-kitchen-7-camden-st-toronto/2tnh): 4.6/5. Hard to find, very small restaurant, brunch is cheap, gives a large quantity of potatoes, sausages and eggs.
+
+[板面大王 Noodle Legend(North York)](https://www.ubereats.com/ca/store/noodle-legend-%E6%9D%BF%E9%9D%A2%E5%A4%A7%E7%8E%8B/PjTJ5KjLVDqcNWoHkLW2Dg?srsltid=AfmBOoojg-3QrzDZ-mbJYVBum-C38QmBFKMaVTJ2WVannKnce1UbbgBR):4.3/5. Noodle is ok, just remember quantity is pretty large. That's all.
 
 [Bao House](https://www.bao-house.ca/): 4.1/5. Just premade Chinese food, if you are Chinese, no need to try again.
 
@@ -50,6 +54,8 @@ List of the Toronto restaurants that I visited.
 [Dil Tak Indian Cuisine and Bar](https://diltak.ca/): 4.0/5. Eating with my third rotation managers and director. Unique experience. Food is cheap and large quantity, can go with coworkers.
 
 [Dock of the bay steak & seafood grille](https://dockofthebay.ca/): 3.9/5. Normal food, service is just so so, although near water, not feeling in good mood.
+
+[东方宫兰州牛肉拉面 Omni Noodle Palace(Yonge Sheppard Centre)](https://omninoodle.ca/): 4.4/5. Price is ok, taste is normal taste, nothing too special, if you walk by and want some beef noodle, then you can take this as a choice.
 
 [Dong Kee Chinese Restaurant](https://www.yelp.ca/biz/dong-kee-toronto): 4.8/5. Cantonese cuisine, very cheap price, six poeple totally $207, would recommend go again.
 
@@ -96,6 +102,8 @@ List of the Toronto restaurants that I visited.
 [Hanyang Jokbal](https://www.instagram.com/p/CalWAVCrY69/?igshid=ZDFmNTE4Nzc%3D): 4.5/5. Nice pork hock, it has various taste, but I think original is the best.
 
 [好兄弟烧烤](https://www.instagram.com/goodbrotherbbq/): 4.1/5. Ok taste, price not expensive with discount in cash.
+
+[Han Ba Tang](https://hanbatang.ca/?gad_source=1&gad_campaignid=21255064965&gbraid=0AAAAA9qx8tIs_ss4-KPcmSPN1uiqgGmrR&gclid=Cj0KCQjwhsrUBhDxARIsAN3AQSckm3JuIsOIuRAMEduZFqMcsfP114bl2_MlBk2UmgPxK1ASRw2sugAaAnlVEALw_wcB): 4.1/5. Do not have too much memory about this, just remeber this is not that good.
 
 [Happy Valley Village 山里屯](https://www.instagram.com/happyvalleyvillage/?igshid=NDk2dHVtZGk2d2dq): 4.3/5. Nice to have a try if there are many people.
 
@@ -170,6 +178,8 @@ List of the Toronto restaurants that I visited.
 
 [Miller Tavern](https://themillertavern.com/): 4.0/5. Ok food, amount is not small, price not cheap, if you reach around lake, could have a try.
 
+[Modu Three Brothers魔都三兄弟](https://www.ubereats.com/ca/store/%E9%AD%94%E9%83%BD%E4%B8%89%E5%85%84%E5%BC%9F-modu-three-brothers/nisd-vT5RkeMXbQSYXMtUQ?srsltid=AfmBOoqcnTy10xZAOYDfVjIWoO_0QXAhQ5JTgLh2mLQEVx1o96np0GaJ): 4.8/5. I like it so much because for some of the food, it is not easy to find somewhere else, for example: green tea taro cake, prok with smoked tofu and sichuan pepper. I will always revisit this place!
+
 [Mother](https://motherdrinks.co/): 4.9/5. Good price, good drink, always worth to go, top recommendation is their fries!
 
 [Moon Palace](https://moon-palace.ca/): 4.2/5. Pretty good location, facing Eaton center, delicious roasted duck, but the price is a little bit high.
@@ -185,6 +195,8 @@ List of the Toronto restaurants that I visited.
 [Omni Noodle Palace(Yonge Sheppard Centre) 东方宫兰州牛肉拉面](https://omninoodle.ca/): 4.5/5. emmm, nice nodles, I like their barbecue, if you live nearbym then this is your place hahh.
 
 [Owl of minerva](https://owlfamily.ca/): 4.3/5. Normal Korea food, but it is cheap.
+
+[Pho Anh Vu](https://phoanhvu.com/): 4.5/5. Nice Vietnamnese noodle and rice. Pretty large quantity, if you live close by, worth to be your monthly routine.
 
 [Pita Lite Shawarma](https://pitalite.com/): 4.1/5. Chain store, cheap price to take shawarma, I like the chicken bowl, pretty good. 
 
@@ -203,6 +215,8 @@ List of the Toronto restaurants that I visited.
 [Shoeless Joe's Sports Grill](https://shoelessjoes.ca/): 3.1/5. Typical America food, washroom smells bad.
 
 [SOI Thaifoon](https://soithaifoon.com/): 4.1/5. Thai food is fine, but only a few types and the price is not cheap at all.
+
+[Som Tum Jinda - Fairview Mall](https://somtumjinda.ca/): 4.7/5. Every time I order Pad Woonsen Cha-Om and Mango Sticky Rice Slushy. Excellent! Revisit for multiple times ~
 
 [松亭寿喜烧 Matsutei Sukiyaki](https://www.instagram.com/matsuteisukiyaki/): 4.1/5. Ok food, if you live in downtown and cannot go to Daimaru, this might be the choice.
 
@@ -246,6 +260,8 @@ List of the Toronto restaurants that I visited.
 
 [一家川菜馆](https://www.yijiachuancaiguan.com/): 4.2/5. close to UTSG, good price, ok food, cash price including tax 80 dollar is enough for at least three people have meal.
 
+[壹品锅贴 IBUND CLASSIC SHANGHAI POTSTICKERS](https://ibund.net/en?srsltid=AfmBOorsIFSCENCvdb-3Po7rakjvOcl8l7n-O1bSAImHcENVjVxKWUkg): 4.1/5. Just soso, all premade, nothing fantastic.
+
 [有局儿烧烤 Have Party BBQ](https://info.yorkbbs.ca/restaurant/bbq/havepartybbq)： 4.6/5. If I would choose to eat BBQ in Markham or Richmond Hill, I will choose either this one or Street Grill, both are awesome. Street Grill drink is better.
 
 [有米酸奶](https://www.yomiesriceyogurt.com/): 4.6/5. Order Mango Pomelo Sago Yogurt, I like it!
@@ -257,6 +273,10 @@ List of the Toronto restaurants that I visited.
 [真牛中式烤肉 Kung Fu Beef Chinese BBQ](https://www.yelp.ca/biz/kung-fu-beef-chinese-bbq-%E7%9C%9F%E7%89%9B%E4%B8%AD%E5%BC%8F%E7%83%A4%E8%82%89-toronto): 4.0/5. Food is ok, lots of types to choose, worth to have a try. 
 
 [正宗维吾尔族餐厅 Charcoal Kebab House](https://www.ubereats.com/ca/store/charcoal-kebab-house-%E6%AD%A3%E5%AE%97%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F%E9%A4%90%E5%8E%85/Uvl8MVXVTA-lQvBo2w8nqg): 4.4/5. Huge amount, I like the lamb rice and the yogurt is also awesome.
+
+[赵三孃北约克店（NY）3rd Mom Spicy Hot Pot](https://www.ubereats.com/ca/store/3rd-mom-spicy-hot-pot-%E8%B5%B5%E4%B8%89%E5%AD%83%E5%86%92%E8%8F%9C%C2%B7%E9%BA%BB%E8%BE%A3%E7%83%AB-north-york/vLeAF5s4UV699EYWLZ98Gw?srsltid=AfmBOooUYB3wzT7AxRYYSlfjU1y8CR2gN6zTJ_P7QoI4_4f0f2jbTkaD): 4.0/5. Price is expensive, not too many types to let you choose, taste is ok ...
+
+[知味煲仔饭 (Yonge) Good Taste Casserole Rice](https://goodtastecasserolerice.com/): 4.4/5. The price-quality ratio is pretty high, but I remember i need to wait for a long time to get it, I know it means it is not premade, but ... 
 
 [紫金盛宴 Crown Prince Fine Dining and Banquet](https://crown-prince.ca/): 4.5/5. Popular dim sum, food is ok, but not that excellent, if you are nearby, you can have a try.
 
