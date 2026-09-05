@@ -71,6 +71,8 @@ List of the Toronto restaurants that I visited.
 
 [Egg Static](https://eggstatic.ca/home): 4.2/5. Good brunch food, nice drink, but service a little unprofessional. 
 
+[El Inka Peruvian Cuisine](https://www.elinka.ca/menu-elinka): 4.4/5. Peru food, t is ok, not fine dinning, more like a bar. The taste is a little too salty which some people might not like. 
+
 [Elephant & Castle](https://www.elephantcastle.com/?gad_source=1&gclid=Cj0KCQjwvpy5BhDTARIsAHSilylPuBM6W4Y1Vc3dNETeiRHQMEJHl6JyWTepEPVDX09rdGoM6KeVU7EaAmNbEALw_wcB): 3.6/5. Normal bar food. 
 
 [Fox on John](https://www.foxonjohn.ca/): 4.1/5. The happy hour menu is so good, I order the spring roll, crispy chicken and truffle fries. Only truffle fries is just fine, a little bit too hard, compared to price, it is worth to go. 
@@ -188,6 +190,8 @@ List of the Toronto restaurants that I visited.
 
 [Myungdong Noodle Shabu Shabu](https://www.mdkalguksu.com/): 4.1/5. Pan fried dumplings is good, ok Korea food, can try if you walk pass by, it is interesting that it locates in Indian town.
 
+[闹味 Naowei Noodles](https://www.ubereats.com/ca/store/%E9%97%B9%E5%91%B3-naowei-noodles/EVEf-RYGULSeuRNJeaQSLg?srsltid=AfmBOooBMmhIaM32dZayyKFWD2wAHK43h613SNszbNZ8xX8EiZNLTtd0): 4.8/5. My favorite noodle in Toronto. Traditional Chongqing noodle. I have to say handmade noodle is way much better than machine made ones ~
+
 [粘一筷子](https://info.yorkbbs.ca/detail/sichuan/a137d8ad-78c3-4975-a5a1-35e58dfb3c63): 4.8/5. Spicy SiChuan food, large quantity, can only walk in, so need to wait.
 
 [OEB](https://eatoeb.com/locations/toronto/?gclid=CjwKCAiAk9itBhASEiwA1my_61YsuBPw7S77-js1K5fg0TCPPQ18PB4cSD6sXOLOaIQ28aTUGCfYiBoCp1YQAvD_BwE): 4.5/5. Brunch Restaurant, main dishes are good, glass is tricky, the volume is smaller than what you think.
@@ -200,6 +204,8 @@ List of the Toronto restaurants that I visited.
 
 [Pita Lite Shawarma](https://pitalite.com/): 4.1/5. Chain store, cheap price to take shawarma, I like the chicken bowl, pretty good. 
 
+[七里香泥炉烤肉 Meataa 7 Authentic Charcoal BBQ](https://meataa7.com/): 4.8/5. It is charcoal fire which is better. Most of the meat is good except lamb and beef tongue. Their rice is good too!
+
 [青屿治茶The Green Isle](https://cloud.quickposhub.com/onlineorder/#/pages/order/index?hotelid=111801&fc=up): 4.9/5. I like this store the most in Toronto for their teas. 
 
 [RASA](https://www.rasabar.ca/): 4.4/5. Octopus, shrimp and burger are all good. But the price is too high compared to quantity, can go once to take a try. 
@@ -207,6 +213,8 @@ List of the Toronto restaurants that I visited.
 [Ramen X Remix](https://ramenxremix.com/): 4.3/5. Pretty special ramen, but the price is a little high compared to other ramen.
 
 [Rikki Tikki](https://rikkitikki.ca/): 4.8/9. Nice food, I like mango lassi!!!
+
+[Sang-Ji Fried Bao (North York)](https://www.instagram.com/sangjibaotoronto/): 4.5/5. Their Sangji Bao and dry noodle is ok. Defnitely not as good as typical Shnghai food, but it is the rare one in Toronto, isn't it?
 
 [Shinta](https://shintabbq.ca/): 4.5/5. Three levels of AYCE. Good quality of meat, 12% required tips, service is good. You can get cash off 10% before 5pm.
 
@@ -241,6 +249,8 @@ List of the Toronto restaurants that I visited.
 [Turquoise Restaurant (Downtown Toronto)](https://turquoiserestaurants.com/): 4.6/5. Interesting Turkish style restaurant with many flavors, worth to take a try.
 
 [Tutti Matti](https://tuttimatti.com/): 3.9/5. Taste is just soso, only three noddles in a plate ...
+
+[Twilight Cafe](https://www.twilightcafe.ca/north-york-menu): 4.7/5. Food and drink is pretty nice. The most fantastic part is that you can play board games!!! They have many games.
 
 [Urumchi Uyghur Cuisine](https://www.ubereats.com/ca/store/urumchi-uyghur-cuisine/PaNClHhRVkOgjxtrDq4aXA?srsltid=AfmBOoqAeRjmoONmNL2DUlcraEbaF0YK0rPY5-W23QYLs580si2pVxY6): 4.1/5.  Ok XinJiang style food, not that great, normal plate.
 
